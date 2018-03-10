@@ -32,6 +32,20 @@ bootstrap new --template affix
 
 The CLI will prompt you to give your project a name. The code will be downloaded into a folder with this name.
 
+Or install the Bootstrap 3.3.7 affix sources with this command:
+
+```bash
+[sudo] npm install bootstrap-affix --save
+```
+
+Use this command to set up an empty Bootstrap 4 project:
+
+```bash
+bootstrap new --template affix
+```
+
+The CLI will prompt you to give your project a name. The code will be downloaded into a folder with this name.
+
 ### Manual Setup
 
 To manually set up the project, first download it with Git:

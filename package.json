@@ -1,6 +1,6 @@
 {
-  "name": "affix",
-  "version": "0.0.1",
+  "name": "bootstrap-affix",
+  "version": "1.0.1",
   "description": "Bootstrap 4 with jQuery Affix plugin. Powered by Panini, Sass and Gulp.",
   "main": "Gulp.js",
   "devDependencies": {
@@ -25,13 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bassjobsen/affix.git"
+    "url": "https://github.com/alex-wdmg/affix.git"
   },
   "bugs": {
-    "url": "https://github.com/bassjobsen/affix/issues",
-    "email": "bass@w3masters.nl"
+    "url": "https://github.com/alex-wdmg/affix/issues",
+    "email": "wdmg.com.ua@gmail.com"
   },
-  "author": "Bass Jobsen <bass@w3masters.nl> (http://bassjobsen.weblogs.fm)",
+  "author": "Bass Jobsen <bass@w3masters.nl> (http://bassjobsen.weblogs.fm), Alex Vyshnyvetskyy <alex.vyshnyvetskyy@gmail.com> (https://wdmg.com.ua)",
   "license": "MIT",
-  "private": true
 }
